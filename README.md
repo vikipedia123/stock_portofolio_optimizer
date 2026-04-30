@@ -7,7 +7,7 @@ This is a simple local web app that reads real historical stock prices and perfo
 From the workspace root:
 
 ```powershell
-cd "C:\Users\Vicki.Burckel\Documents\Codex\2026-04-30\create-a-pptx-on-the-travel"
+cd "C:\Users\xxx\Documents\Codex\2026-04-30\create_app"
 npm run start:portfolio
 ```
 
